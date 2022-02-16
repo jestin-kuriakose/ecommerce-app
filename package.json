@@ -1,7 +1,6 @@
 {
   "name": "ecommerce-app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start-backend": "nodemon index.js"
@@ -15,5 +14,15 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.2.1",
     "nodemon": "^2.0.15"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hq-admin/ecommerce-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hq-admin/ecommerce-app/issues"
+  },
+  "homepage": "https://github.com/hq-admin/ecommerce-app#readme",
+  "description": ""
 }
